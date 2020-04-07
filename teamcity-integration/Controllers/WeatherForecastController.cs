@@ -12,6 +12,7 @@ namespace Eshop.Controllers
     public class WeatherForecastController : ControllerBase
     {
         string test;
+        string abc;
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
