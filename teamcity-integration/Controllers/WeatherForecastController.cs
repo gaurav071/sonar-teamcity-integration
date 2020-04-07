@@ -16,7 +16,7 @@ namespace Eshop.Controllers
         string test1;
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
