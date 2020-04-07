@@ -13,6 +13,7 @@ namespace Eshop.Controllers
     {
         string test;
         string abc;
+        string test1;
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
